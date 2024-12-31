@@ -1,6 +1,5 @@
 #Currency Converter
 
-Description
 The Currency Converter is a real-time web application built using React that allows users to convert between different currencies effortlessly. The app fetches current exchange rates to ensure accuracy and provides an intuitive user interface for a seamless experience.
 
 Key Features
